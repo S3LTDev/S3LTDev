@@ -5,6 +5,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/746453649974100103.png" alt="Discord"/>
 </a>
 
+
  **What Do I Do?**
 
 - 🔥 Python Developement, Mostly  **Discord Bot** Tasks.
@@ -15,7 +16,5 @@
 - [Vixxy - Social Media Made Better](https://vixxy.app)
 - [AstroApp - AIO](https://discord.gg/astroapp)
 - [Many Customer Projects](https://discord.com/users/746453649974100103)
-
-**Stats:**  
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MaxxD99&theme=dracula&count_private=true" </div>
