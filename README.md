@@ -1,7 +1,7 @@
 ### Welcome To My Profile Page!
 
 <a href="https://discord.com/users/746453649974100103">
-<img src="https://discord.c99.nl/widget/theme-5/746453649974100103.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-1/746453649974100103.png" alt="Discord"/>
 </a>
 
 
