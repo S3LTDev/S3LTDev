@@ -21,11 +21,11 @@ I am an **Aspiring Developer** that is very interested in the world of IT, curre
 
 <p align="center">
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
-	<img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/mysql.png"/>
-	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/php.png"/>
+	<img align="center" alt="MySQL" width="35" src="https://img.icons8.com/color/48/000000/mysql.png"/>
+	<img align="center" alt="PHP" width="35" src="https://img.icons8.com/color/48/000000/php.png"/>
 	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 	<img align="center" alt="CSS" width="35" src="https://img.icons8.com/color/48/000000/css3.png"/>
+	<img align="center" alt="TailwindCSS" width="35" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp"/>
  	<img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>
 	
 </p>
