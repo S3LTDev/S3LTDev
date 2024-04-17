@@ -20,7 +20,6 @@ I am an **Aspiring Developer** that is very interested in the world of IT, curre
 <br>
 
 <p align="center">
-	<img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/>
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
 	<img align="center" width="35" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 	<img align="center" alt="HTML" width="35" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -35,8 +34,8 @@ I am an **Aspiring Developer** that is very interested in the world of IT, curre
 <br/>
 <p align="center">
   	<a href="http://www.S3LT.co"><img alt="personal website" src="https://badgen.net/badge/icon/chrome?icon=chrome&label=Website"></a>
-	<a href="https://www.linkedin.com/in/S3LTDev"><img alt="Discord" src="https://img.shields.io/badge/LinkedIn-Dimo%20Dimchev%20-blue?style=flat-square&logo=Discord"></a>
-	<a href="S3ltdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ddimchev7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+	<a href="https://www.linkedin.com/in/S3LTDev"><img alt="Discord" src="https://img.shields.io/badge/Discord-S3LT%20Dev%20-blue?style=flat-square&logo=Discord"></a>
+	<a href="S3ltdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-S3LTDev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=S3LTDEV&theme=dracula&count_private=true" </div>
