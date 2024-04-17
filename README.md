@@ -19,14 +19,6 @@ I am an **Aspiring Developer** that is very interested in the world of IT, curre
 
 <br>
 
-<h3 align="center">Technologies I've used</h3>
-
-<!-- | Technology | Purpose of use |
-| :----------: | -------------- |
-
-| <img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>| Spent most of my time learning python for all programming needs as i found it was easy to learn and i have a great understanding of it.:</br>- [HWID Authentication](https://github.com/S3LTDev/Authentication)
-| <img align="center" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png"/>| I began programming learning js, but have now moved to python, my only current use for js is web. |
-
 <p align="center">
 	<img align="center" alt="C" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"/>
 	<img align="center" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"/>
